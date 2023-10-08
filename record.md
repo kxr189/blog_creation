@@ -22,6 +22,10 @@ blog创建过程记录
       (16)cnpm install --save hexo-deployer-git #在blog目录下安装git部署插件
 
 # 二、常用指令
-    1、
+  ```
+  hexo clean
+  hexo g
+  hexo s
+  ```
 
 
