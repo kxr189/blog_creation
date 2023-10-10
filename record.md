@@ -26,6 +26,10 @@ blog创建过程记录
   hexo clean
   hexo g
   hexo s
+  hexo d
   ```
-
-
+# 三、注意事项
+```
+图片的修改在以下路径中：
+E:\hexo\blog\themes\hexo-theme-fluid\source\img
+```
